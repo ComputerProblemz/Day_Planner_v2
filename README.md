@@ -12,8 +12,6 @@ If you'd like to contribute to this project or report issues, please follow thes
 
 Fork the repository on GitHub.
 Make your changes and create a pull request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Special thanks to the tkinter library for making GUI development in Python easy.
